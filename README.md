@@ -42,6 +42,10 @@ A side-by-side comparison of Heart Disease and Diabetes metrics to identify broa
 - Comprehensive patient health profiling
 - Population-level health insights
 
+
+
+![1](Code_Generated_Image.pdf)
+
 ---
 
 ## 📂 Datasets Used
