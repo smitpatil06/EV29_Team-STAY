@@ -48,6 +48,8 @@ A side-by-side comparison of Heart Disease and Diabetes metrics to identify broa
 
 ![2](heart_disease_dashboard.png)
 
+![3](professional_medical_dashboard.png)
+
 ---
 
 ## 📂 Datasets Used
