@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
-import { Activity, Heart, Droplet, AlertCircle, CheckCircle, TrendingUp, User, Calendar } from 'lucide-react';
+import { Activity, Heart, Droplet, AlertCircle, CheckCircle, TrendingUp, User } from 'lucide-react';
 
-function App() {
+export default function App() {
   const [formData, setFormData] = useState({
     age: 50, gender: 'Male',
     cp: 1, trestbps: 120, chol: 200, fbs: 0, restecg: 0,
@@ -255,5 +255,3 @@ function App() {
     </div>
   );
 }
-
-export default App;
