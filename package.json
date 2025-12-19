@@ -1,7 +1,7 @@
-"scripts": {
-    "start-all": "concurrently \"python ./health-backend/app.py\" \"cd health-risk-app && npm run dev\"",
-},   
 {
+  "scripts": {
+    "start-all": "concurrently \"python ./health-backend/app.py\" \"cd health-risk-app && npm run dev\""
+  },
   "devDependencies": {
     "concurrently": "^9.2.1"
   }

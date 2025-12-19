@@ -4,7 +4,6 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "start-all": "concurrently \"python ./health-backend/app.py\" \"cd health-risk-app && npm run dev\"",
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
